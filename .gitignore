@@ -1,0 +1,35 @@
+# Build outputs
+.gradle/
+build/
+target/
+out/
+
+# IDE files
+.idea/
+.claude/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Runtime data
+output/
+checkpoints/
+logs/
+*.log
+
+# Gradle wrapper jar (optional - include if you want to commit it)
+# gradle/wrapper/gradle-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
