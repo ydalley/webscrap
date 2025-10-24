@@ -34,7 +34,7 @@ java -version
 ```
 
 
-** Using JAR (Production Deployment)**
+### Using JAR (Production Deployment)
 ```bash
 # Navigate to project directory
 cd /path/to/jira-llm-scraper
